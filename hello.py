@@ -1,0 +1,13 @@
+"""
+print("hello"+input())
+aaaa
+ssss
+"""
+print(bool(0))
+print(bool(""))
+print(bool(''))
+print(bool([]))
+print(bool(None))
+print(bool("none"))
+age=input()
+print(int(age)+10)
